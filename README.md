@@ -17,12 +17,19 @@ I’m a passionate data scientist currently pursuing my **M.Tech in Industrial E
 
 ---
 
+Here’s the updated contact information in tabular form without the phone number:
+
+---
+
 ## 📬 **Contact Information**
 
-| **Email** | [23mt0268@iitism.ac.in](mailto:23mt0268@iitism.ac.in) |  
-| **Phone** | +91-6201069315 |  
-| **GitHub** | [IItsPrashantIITD](https://github.com/IItsPrashantIITD) |  
-| **LinkedIn** | [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-a2a6591b4/) |
+| **Email**                                   | **GitHub**                              | **LinkedIn**                                |  
+|---------------------------------------------|-----------------------------------------|---------------------------------------------|  
+| [23mt0268@iitism.ac.in](mailto:prashantkr140498@gmail.com) | [IItsPrashantIITD](https://github.com/IItsPrashantIITD) | [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-a2a6591b4/) |  
+
+---
+
+This format keeps it clean and professional!
 
 ---
 
@@ -74,13 +81,4 @@ I’m a passionate data scientist currently pursuing my **M.Tech in Industrial E
 | 🏏 **3rd place** in Amber Cricket Tournament    | Displayed strategic thinking and leadership in team sports.                                              |  
 | 🎖️ **Lean Six Sigma Green Belt** - KPMG        | Completed certification with excellence in process improvement and waste reduction strategies.           |
 
----
 
-### 📈 **Let’s Connect!**
-
-| **Platform** | **Link** |  
-|--------------|----------|  
-| **GitHub** | [IItsPrashantIITD](https://github.com/IItsPrashantIITD) |  
-| **LinkedIn** | [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-a2a6591b4/) |  
-| **Email** | [23mt0268@iitism.ac.in](mailto:23mt0268@iitism.ac.in) |  
-| **Phone** | +91-6201069315 |
