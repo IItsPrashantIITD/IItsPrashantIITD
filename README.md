@@ -17,7 +17,6 @@ I’m a passionate data scientist currently pursuing my **M.Tech in Industrial E
 
 ---
 
-Here’s the updated contact information in tabular form without the phone number:
 
 ---
 
@@ -29,7 +28,6 @@ Here’s the updated contact information in tabular form without the phone numbe
 
 ---
 
-This format keeps it clean and professional!
 
 ---
 
