@@ -8,7 +8,7 @@
 🎓 **M.Tech - Industrial Engineering and Management**  
 📞 **Contact:** +91-6201069315  
 📧 **Email:** 23mt0268@iitism.ac.in  
-🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)  
+🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/prashant-kumar-a2a6591b4)  
 💻 **GitHub:** [IItsPrashantIITD](https://github.com/IItsPrashantIITD)
 
 ---
