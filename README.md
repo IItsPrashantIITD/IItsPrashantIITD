@@ -1,6 +1,3 @@
-Here’s a cooler version of your README with some dynamic elements and a friendly tone. You can add GIFs to liven up the presentation. Below is an enhanced version:
-
----
 
 ![header](https://user-images.githubusercontent.com/85084996/123443099-3d39b580-d5e2-11eb-8e06-3472b7c8ba62.gif)
 
