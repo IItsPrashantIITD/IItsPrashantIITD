@@ -25,7 +25,7 @@ Here’s the updated contact information in tabular form without the phone numbe
 
 | **Email**                                   | **GitHub**                              | **LinkedIn**                                |  
 |---------------------------------------------|-----------------------------------------|---------------------------------------------|  
-| [23mt0268@iitism.ac.in](mailto:prashantkr140498@gmail.com) | [IItsPrashantIITD](https://github.com/IItsPrashantIITD) | [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-a2a6591b4/) |  
+| [prashantkr140498@gmail.com](mailto:prashantkr140498@gmail.com) | [IItsPrashantIITD](https://github.com/IItsPrashantIITD) | [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-a2a6591b4/) |  
 
 ---
 
