@@ -5,13 +5,13 @@
 
 ### 🚀 Data Science Enthusiast | Operations Research | Supply Chain Optimization | Quality Assurance
 
-I'm an aspiring data scientist with a passion for **operations research**, **supply chain optimization**, and **quality assurance**. I am currently pursuing my **M.Tech in Industrial Engineering and Management** at **IIT (ISM), Dhanbad**. I love working on real-world projects where I can apply **machine learning**, **data visualization**, and **predictive modeling** to solve complex problems. 
+I am an aspiring data scientist with a passion for **operations research**, **supply chain optimization**, and **quality assurance**. Currently, I'm pursuing my **M.Tech in Industrial Engineering and Management** at **IIT (ISM), Dhanbad**. I love applying **machine learning**, **data visualization**, and **predictive modeling** to solve complex real-world problems.
 
-![data](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)
+![data-science](https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif)
 
 - 📫 **Contact**: 23mt0268@iitism.ac.in | +91-6201069315  
 - 💻 **GitHub**: [IItsPrashantIITD](https://github.com/IItsPrashantIITD)  
-- 🌐 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/prashant-kumar-a2a6591b4/)  
+- 🌐 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/prashant-kumar-a2a6591b4/)
 
 ---
 
@@ -27,7 +27,7 @@ I'm an aspiring data scientist with a passion for **operations research**, **sup
 
 ## 🛠️ **Skills**
 
-![tools](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![skills](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 - **Programming**: Python (Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn), SQL
 - **Data Science Tools**: Power BI, SAP, Minitab, MS Excel, TensorFlow, Arena, Vensim, Systat, OpenSolver
@@ -48,6 +48,8 @@ I'm an aspiring data scientist with a passion for **operations research**, **sup
 
 ## 🚀 **Projects**
 
+![projects](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 - **Loan Defaulter Prediction Model**  
   Developed a machine learning model with **89% precision** using **Random Forest**, enhancing loan default predictions for risk management.
 
@@ -55,8 +57,6 @@ I'm an aspiring data scientist with a passion for **operations research**, **sup
   Built a regression model with **R² of 0.9** using **RandomForest Regressor**, optimizing prediction accuracy with **GridSearchCV**.
 
 ---
-
-![cool](https://media.giphy.com/media/1lweXxLmxzbj8CzfOj/giphy.gif)
 
 ## 🏆 **Achievements & Extracurriculars**
 
@@ -68,5 +68,4 @@ I'm an aspiring data scientist with a passion for **operations research**, **sup
 
 ### 📈 Let's connect and create something awesome together!
 
-![connect](https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif)
-
+![connect](https://media.giphy.com/media/5T06ftUYSdABqHC4Ud/giphy.gif)
