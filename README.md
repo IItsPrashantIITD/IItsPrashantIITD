@@ -7,7 +7,6 @@
 
 I am an aspiring data scientist with a passion for **operations research**, **supply chain optimization**, and **quality assurance**. Currently, I'm pursuing my **M.Tech in Industrial Engineering and Management** at **IIT (ISM), Dhanbad**. I love applying **machine learning**, **data visualization**, and **predictive modeling** to solve complex real-world problems.
 
-![data-science](https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif)
 
 - 📫 **Contact**: 23mt0268@iitism.ac.in | +91-6201069315  
 - 💻 **GitHub**: [IItsPrashantIITD](https://github.com/IItsPrashantIITD)  
