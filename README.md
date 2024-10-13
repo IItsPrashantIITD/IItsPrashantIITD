@@ -1,6 +1,3 @@
-Here’s a more professional and organized version of your README with all website links aligned in a column format. I have also removed some of the informal GIFs and kept things clean and structured:
-
----
 
 ![header](https://user-images.githubusercontent.com/85084996/123443099-3d39b580-d5e2-11eb-8e06-3472b7c8ba62.gif)
 
